@@ -1,0 +1,9 @@
+classes/
+	/classes/__init__.py
+	/classes/Cliente.py
+	/classes/Celular.py
+	/classes/Plano.py
+	/classes/Promocao.py
+	/classes/Ligacao.py
+	/classes/Operadora.py
+	/classes/Excecao.py
